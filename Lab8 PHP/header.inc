@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Header</title>
+</head>
+
+<body>
+    <header><h1>Lab8 PHP</h1></header>
+</body>
+</html>
